@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Shakila Naz
 🚀 **Emerging Researcher in Computer Science | AI/ML Enthusiast | Python Developer**
-I am passionate about **Artificial Intelligence, Machine Learning, and Web Development**. Currently pursuing an **MS in Computer Science**, focusing on building impactful real-world solutions through technology.
 
 ## 🔹 About Me
 - 🎓 MS CS Student | Researcher in AI/ML

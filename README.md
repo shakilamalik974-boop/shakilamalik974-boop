@@ -2,7 +2,6 @@
 🚀 **Emerging Researcher in Computer Science | AI/ML Enthusiast | Python Developer**
 
 ## 🔹 About Me
-- 🎓 MS CS Student
 - 💻 Skilled in **Python, ML, Web Technologies & Databases**
 - 🌐 Experienced with **Front-End Development & Data Analysis Tools**
 - 🤝 Open to collaborating on **AI, ML, and Web projects**
